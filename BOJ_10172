@@ -1,0 +1,15 @@
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String a = "|\\_/|";
+		String b = "|q p|   /}";
+		String c = "( 0 )\"\"\"\\";
+		String d = "|\"^\"`    |";
+		String e = "||_/=\\\\__| ";
+		
+		System.out.print(a+"\n"+ b+"\n"+ c+"\n"+ d+"\n"+ e);
+
+	}
+
+}
